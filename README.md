@@ -1,5 +1,6 @@
 # MasterThesis
-Using Diffusion Models To Improve Brain Tumor Segmentation 
+Improving brain tumor segmentation using synthetic images
+from diffusion models 
 
 The diffusion model refers to [Improved Diffusion](https://github.com/openai/improved-diffusion). There is minor change about data loading, we switch the normal images into npz files as sometimes we have 2 or 4 channel as input images.
 
